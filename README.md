@@ -17,4 +17,4 @@ Projeto constuído do evento Next Level Week da Rocktseat.
 
 ## 📧 Contato
 
-camila.lovera.fernandes@gail.com 
+camila.lovera.fernandes@gmail.com 
